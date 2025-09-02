@@ -24,5 +24,6 @@ It calculates the simple interest based on the amount, interest rate, and number
 ---
 
 ## 🌐 Live Demo  
-👉 [Click here to try it](https://0xcodeghost.github.io/simple-interest-calculator/)
+👉 <a href="https://YourUsername.github.io/RepositoryName" target="_blank">Click here to try it</a>
+
 
